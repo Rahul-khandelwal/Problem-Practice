@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.rahul.system.design.elevator;
+package java.problemsolving.math;
 
 /**
- * TODO Design an elevator systems.
- *
+ * Given an array of numbers one to n, use + and - sign such that the returned sum is zero.
+ * 
  * @author Rahul
  */
-public class Elevator {
+public class PartitionForZeroSum {
     
 }

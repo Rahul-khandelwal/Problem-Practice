@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.rahul.system.design.parkingLot;
+package java.systemdesign.parkingLot;
 
 /**
  * TODO Design a parking lot systems.

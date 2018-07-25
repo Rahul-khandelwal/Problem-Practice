@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.rahul.problem.practice.trees;
+package java.problemsolving.trees;
 
 /**
  * Question : Given 2 arrays of integers,find whether they will form the same binary search tree.

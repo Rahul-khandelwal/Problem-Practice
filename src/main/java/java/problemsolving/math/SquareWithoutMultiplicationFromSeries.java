@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.rahul.problem.practice.math;
+package java.problemsolving.math;
 
 /**
  * Given two series : - 

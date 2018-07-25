@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.rahul.problem.practice.math;
+package java.problemsolving.regex;
 
 /**
- * Given an array of numbers one to n, use + and - sign such that the returned sum is zero.
+ * TODO Write regular expression for IPV6 address validation.
  * 
  * @author Rahul
  */
-public class PartitionForZeroSum {
+public class Ipv6Validation {
     
 }

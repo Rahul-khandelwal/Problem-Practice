@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.rahul.java.regex;
+package java.systemdesign.elevator;
 
 /**
- * TODO Write regular expression for IPV6 address validation.
- * 
+ * TODO Design an elevator systems.
+ *
  * @author Rahul
  */
-public class Ipv6Validation {
+public class Elevator {
     
 }
